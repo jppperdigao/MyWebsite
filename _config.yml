@@ -2,7 +2,8 @@
 name: João Perdigão
 description: "Computer Science Engineer. Living in Zürich. BBQ lover, friendly gamer and sports fan."
 #baseurl:"/jppperdigao.github.io/"
-url: "http://jppperdigao.github.io/mywebsite"
+#url: "http://jppperdigao.github.io/mywebsite"
+url:""
 
 linkedin_username: joaoperdigao
 github_username:  jppperdigao
